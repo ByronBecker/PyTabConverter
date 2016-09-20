@@ -19,3 +19,5 @@ expandtab turns all tabs into spaces
 
 However, this setting change will only work for future tabs, so
 :retab is to apply the new tab settings to all tabs in the file 
+
+...
